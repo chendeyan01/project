@@ -1,5 +1,10 @@
 server:
   port: 8771
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    username: guest
+    password: guest
 management:
   endpoints:
     web:
