@@ -1,0 +1,23 @@
+    iter
+    Iterate iterable | Array in J2SDK 5 syntax
+
+    itar
+    Iterate elements of array
+
+    itco
+    Iterate elements of java.util.Collection
+
+    iten
+    Iterate java.util.Enumeration
+
+    itit
+    Iterate java.util.Iterator
+
+    itli
+    Iterate elements of java.util.List
+
+    ittok
+    Iterate tokens from String
+
+    itve
+    Iterate elements of java.util.Vector
